@@ -30,6 +30,7 @@ public class StudentInformationSystem {
         {
             System.out.println("Result: Needs Improvement");
         }
+        System.out.println("Sistem Berjaya Dikemaskini");
     }
     
 }
